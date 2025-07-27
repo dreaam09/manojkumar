@@ -1,1 +1,0 @@
-print("ips vijay kumar")
